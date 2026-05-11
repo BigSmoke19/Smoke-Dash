@@ -1,0 +1,7 @@
+.sentIcon {
+  font-size: 48px;
+  text-align: center;
+  display: block;
+  margin: 0 0 20px;
+  filter: grayscale(0.2);
+}

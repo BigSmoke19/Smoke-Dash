@@ -1,0 +1,201 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  ADMIN
+  CLIENT
+  DOCTOR
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  CANCELLED
+  COMPLETED
+  NO_SHOW
+}
+
+enum AuditAction {
+  create
+  read
+  update
+  delete
+  login
+  logout
+  export
+  approve
+  reject
+  assign
+  submit
+  broadcast
+}
+
+// ============================================================
+// 1. USERS
+// ============================================================
+
+
+model User {
+  id                  String               @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  firstName           String
+  lastName            String
+  email               String               @unique
+  phone               String?              @db.VarChar(30)
+  address             String?
+  dateOfBirth         String?
+  passwordHash        String
+  role                Role                 @default(CLIENT)
+  doctor              Doctor?
+  createdAt           DateTime             @default(now())
+  emailVerified       Boolean              @default(false)
+  PhoneVerified       Boolean              @default(false)
+  bookings            Booking[]
+  userSessions        UserSession[]
+  ipRestrictions      IpRestriction[]
+  loginHistories      LoginHistory[]
+  passwordResetTokens PasswordResetToken[]
+  auditLogs            AuditLog[]
+}
+
+model Doctor {
+  id        String     @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId    String     @unique @db.Uuid
+  user      User       @relation(fields: [userId], references: [id],onDelete: Cascade)
+  specialty String
+  bio       String?
+  slots     TimeSlot[]
+  createdAt DateTime   @default(now())
+}
+
+model TimeSlot {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  doctorId  String   @db.Uuid
+  doctor    Doctor   @relation(fields: [doctorId], references: [id],onDelete:Cascade)
+  startsAt  DateTime
+  endsAt    DateTime
+  isBooked  Boolean  @default(false)
+  booking   Booking?
+  createdAt DateTime @default(now())
+
+  @@index([doctorId, startsAt, endsAt])
+}
+
+model Booking {
+  id        String        @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId    String        @db.Uuid
+  user      User          @relation(fields: [userId], references: [id],onDelete: Cascade)
+  slotId    String        @db.Uuid @unique
+  slot      TimeSlot      @relation(fields: [slotId], references: [id],onDelete: Cascade)
+  status    BookingStatus @default(PENDING)
+  createdAt DateTime      @default(now())
+
+  @@index([userId])
+}
+
+// ============================================================
+// 2. SESSIONS & IP RESTRICTIONS
+// ============================================================
+
+model UserSession {
+  id           String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId       String   @db.Uuid
+  refreshToken String   @unique
+  ipAddress    String?
+  isRevoked    Boolean  @default(false)
+  expiresAt    DateTime @db.Timestamptz()
+  createdAt    DateTime @default(now()) @db.Timestamptz()
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([refreshToken])
+  @@map("user_sessions")
+}
+
+model IpRestriction {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId    String   @db.Uuid
+  ipAddress String
+  isAllowed Boolean  @default(true)
+  note      String?
+  createdAt DateTime @default(now()) @db.Timestamptz()
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+
+  @@index([userId])
+  @@map("ip_restrictions")
+}
+
+// ============================================================
+// 3. LOGIN HISTORY
+// ============================================================
+
+model LoginHistory {
+  id            String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId        String   @db.Uuid
+  ipAddress     String?
+  success       Boolean
+  failureReason String?
+  createdAt     DateTime @default(now()) @db.Timestamptz()
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([createdAt(sort: Desc)])
+  @@map("login_history")
+}
+
+// ============================================================
+// 4. PASSWORD RESET TOKENS
+// ============================================================
+
+model PasswordResetToken {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId    String   @db.Uuid
+  tokenHash String   @unique
+  used      Boolean  @default(false)
+  expiresAt DateTime @db.Timestamptz()
+  createdAt DateTime @default(now()) @db.Timestamptz()
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("password_reset_tokens")
+}
+
+// ============================================================
+// 5. AUDIT LOGS
+// ============================================================
+
+model AuditLog {
+  id         String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId     String?     @db.Uuid
+  action     AuditAction
+  entityType String?     @db.VarChar(100)
+  entityId   String?     @db.Uuid
+  oldValue   Json?
+  newValue   Json?
+  ipAddress  String?
+  note       String?
+  createdAt  DateTime    @default(now()) @db.Timestamptz()
+
+  user       User?       @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([userId])
+  @@index([entityType, entityId])
+  @@index([action])
+  @@index([createdAt(sort: Desc)])
+  @@map("audit_logs")
+}

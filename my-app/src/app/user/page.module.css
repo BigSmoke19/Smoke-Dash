@@ -1,0 +1,206 @@
+.modalBackdrop {
+  position: fixed;
+  inset: 0;
+
+  background: rgba(0, 0, 0, 0.7);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+
+  z-index: 999;
+  backdrop-filter: blur(6px);
+}
+
+.bookModal {
+  width: 100%;
+  max-width: 760px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(20, 0, 34, 0.98),
+      rgba(42, 0, 78, 0.95)
+    );
+
+  border: 1px solid var(--border-strong);
+
+  border-radius: var(--radius-xl);
+
+  overflow: hidden;
+
+  box-shadow:
+    0 20px 60px rgba(0,0,0,0.45);
+}
+
+/* ───────────────── HEADER ───────────────── */
+
+.bookModalHeader {
+  padding: 24px 28px;
+
+  border-bottom: 1px solid var(--border-default);
+
+  background: rgba(255,255,255,0.02);
+}
+
+.bookDoctorInfo {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.bookDoctorAvatar {
+  width: 62px;
+  height: 62px;
+
+  border-radius: 50%;
+
+  background:
+    linear-gradient(
+      135deg,
+      var(--ColorA),
+      var(--colorA-700)
+    );
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: white;
+
+  font-size: 1.15rem;
+  font-weight: 800;
+
+  box-shadow:
+    0 4px 16px rgba(80,0,115,0.35);
+}
+
+.bookModalTitle {
+  margin: 0;
+
+  font-size: 1.4rem;
+  font-weight: 800;
+
+  color: white;
+}
+
+.bookModalSub {
+  margin-top: 4px;
+
+  color: var(--ColorC);
+
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+/* ───────────────── BODY ───────────────── */
+
+.bookModalBody {
+  padding: 28px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 220px;
+}
+
+/* ───────────────── SLOT GRID ───────────────── */
+
+.slotGrid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(220px, 1fr));
+
+  gap: 16px;
+}
+
+.slotBtn {
+  padding: 18px;
+
+  border: 1px solid var(--border-default);
+
+  border-radius: var(--radius-lg);
+
+  background:
+    rgba(255,255,255,0.03);
+
+  cursor: pointer;
+
+  transition:
+    all 0.18s ease;
+
+  text-align: left;
+}
+
+.slotBtn:hover {
+  background:
+    rgba(80,0,115,0.2);
+
+  border-color:
+    var(--colorA-600);
+
+  transform: translateY(-2px);
+}
+
+.slotBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.slotDate {
+  color: white;
+
+  font-size: 1rem;
+  font-weight: 700;
+
+  margin-bottom: 8px;
+}
+
+.slotTime {
+  color: var(--text-secondary);
+
+  font-size: 0.9rem;
+
+  line-height: 1.5;
+}
+
+/* ───────────────── FOOTER ───────────────── */
+
+.bookModalFooter {
+  padding: 20px 28px;
+
+  border-top: 1px solid var(--border-default);
+
+  display: flex;
+  justify-content: flex-end;
+
+  background: rgba(255,255,255,0.02);
+}
+
+/* ───────────────── RESPONSIVE ───────────────── */
+
+@media (max-width: 640px) {
+
+  .bookModal {
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+
+  .bookDoctorInfo {
+    align-items: flex-start;
+  }
+
+  .slotGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .bookModalBody {
+    padding: 20px;
+  }
+}

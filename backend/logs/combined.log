@@ -1,0 +1,4982 @@
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T14:57:47.293Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T14:57:47.298Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T14:57:47.312Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:10:46.537Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:10:46.542Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:10:46.552Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:28:31.964Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:28:31.969Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:28:31.981Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:09.956Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:09.960Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:09.970Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:29.584Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:29.589Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:29:29.598Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:30:42.122Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:30:42.135Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:30:42.155Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:33:53.142Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:33:53.147Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:33:53.170Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:45:17.305Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:45:17.310Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:45:17.380Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:51:13.791Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:51:13.796Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:51:13.815Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:53:47.609Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:53:47.616Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:53:47.640Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:55:41.065Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:55:41.070Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:55:41.097Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:56:17.025Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:56:17.030Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T15:56:17.056Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:00:57.969Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:00:57.975Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:00:57.998Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:01:45.403Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:01:45.408Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:01:45.433Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:02:24.581Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:02:24.586Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:02:24.608Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:03:04.980Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:03:04.985Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:03:05.011Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:05:35.397Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:05:35.402Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:05:35.436Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:06:04.249Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:06:04.255Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:06:04.282Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:07:15.083Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:07:15.089Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-29T16:07:15.114Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:57:07.340Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:57:07.353Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)',
+  timestamp: '2026-04-30T12:57:07.387Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)',
+  timestamp: '2026-04-30T12:57:07.443Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)',
+  timestamp: '2026-04-30T12:57:07.558Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)',
+  timestamp: '2026-04-30T12:57:07.723Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:07.930Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:08.191Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:08.497Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:08.857Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:09.271Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:09.740Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:10.256Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:10.823Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:11.439Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:12.106Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:12.822Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:13.591Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:14.405Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:15.272Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:16.187Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:17.154Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:18.170Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:19.235Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:20.352Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:21.518Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:22.735Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:24.001Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:25.318Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:26.684Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:28.100Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:29.566Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:31.082Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:32.648Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:34.263Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:35.931Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:38.119Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:39.879Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:41.695Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:43.562Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:45.473Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:47.442Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:49.458Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:51.474Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:53.514Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:55.522Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:57.546Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:57:59.562Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:01.577Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:03.594Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:05.610Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:07.621Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:09.624Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:11.640Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:13.656Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:15.672Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:17.688Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:19.793Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:21.803Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:23.819Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:25.835Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:27.851Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:29.865Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:31.884Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:33.899Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:35.914Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:37.930Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:39.946Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:41.962Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:43.978Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:45.981Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:47.988Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:49.992Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:51.999Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:54.006Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:56.025Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:58:58.036Z'
+}
+{
+  service: 'api',
+  code: 'ECONNREFUSED',
+  level: 'error',
+  message: 'Redis error',
+  stack: 'AggregateError\n' +
+    '    at internalConnectMultiple (node:net:1122:18)\n' +
+    '    at afterConnectMultiple (node:net:1689:7)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)',
+  timestamp: '2026-04-30T12:59:00.041Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:59:02.050Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:59:41.332Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:59:41.338Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T12:59:41.359Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T12:59:44.177Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:44:24.875Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:44:24.886Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:44:24.915Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T13:44:27.917Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:51:40.349Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:51:40.356Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:51:40.383Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T13:51:43.489Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:55:24.466Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:55:24.471Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:55:24.498Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T13:55:27.592Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:58:10.372Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:58:10.378Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T13:58:10.396Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T13:58:13.318Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:03:40.974Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:03:40.980Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:03:41.006Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T14:03:44.330Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:06:32.705Z'
+}
+{
+  message: 'Environment: test',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:06:32.711Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-04-30T14:06:32.734Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\session.services.ts:20:29\n' +
+    '\n' +
+    '  17 // ─── Revoke Session ──────────────────────────────────────────\n' +
+    '  18 \n' +
+    '  19 export async function revokeSession(refreshToken: string) {\n' +
+    '→ 20   return prisma.userSession.update(\n' +
+    'An operation failed because it depends on one or more records that were required but not found. No record was found for an update.',
+  target: 'userSession.update',
+  timestamp: 2026-04-30T14:06:36.190Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-01T18:50:19.037Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-01T18:50:19.048Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-01T18:50:19.067Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:40:28.673Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:40:28.679Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:40:28.691Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:50:55.827Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:50:55.836Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:50:55.858Z'
+}
+{
+  message: 'API running on http://0.0.0.0:3001',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:51:26.373Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:51:26.384Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:51:26.407Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:54:20.332Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:54:20.337Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T11:54:20.348Z'
+}
+{
+  service: 'api',
+  code: 401,
+  message: 'SendGrid email error Unauthorized',
+  response: {
+    headers: Object [AxiosHeaders] {
+      date: 'Sat, 02 May 2026 12:00:47 GMT',
+      'content-type': 'application/json',
+      'content-length': '116',
+      connection: 'keep-alive',
+      server: 'nginx',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: {
+      errors: [
+        {
+          message: 'The provided authorization grant is invalid, expired, or revoked',
+          field: null,
+          help: null
+        }
+      ]
+    }
+  },
+  level: 'error',
+  stack: 'Error: Unauthorized\n' +
+    '    at C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\node_modules\\@sendgrid\\client\\src\\classes\\client.js:167:29\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2026-05-02T12:00:47.241Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T12:51:23.686Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T12:51:23.695Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-02T12:51:23.712Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmYjY2MTlkMy1lOWYwLTRlNmItYjA1ZC04NDAyOTYzMzQyMjEiLCJpYXQiOjE3Nzc3MjYzMDYsImV4cCI6MTc3ODMzMTEwNn0.wQ7SvhDW46zrPRtwJ8hP34MjIho6jT_WiiamiUKE2Kk",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-02T13:25:16.811Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-02T13:25:17.250Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:01:49.159Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:01:49.164Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:01:49.172Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwYTEyM2RjNC00NzFlLTRjZGEtYmMxMS1kOTQxOWJjYjgwNzciLCJpYXQiOjE3Nzc4MTE3MjgsImV4cCI6MTc3ODQxNjUyOH0.e2QcQWIeFrSYXKrX7nTl4jUlFESDXO7IyS3F9huGM5o",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T13:02:57.252Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T13:02:58.877Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:21:09.561Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:21:09.576Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:21:09.605Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:22:14.718Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:22:14.729Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:22:14.755Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:24:46.411Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:24:46.426Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:24:46.453Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:25:27.617Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:25:27.629Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T13:25:27.655Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:25:51.412Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:25:51.436Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:25:51.468Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:26:54.879Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:26:54.890Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T14:26:55.799Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MTM1NDksImV4cCI6MTc3ODQxODM0OX0.nyn1UdXL7YYfibLuoZJA4aq2-JG8eC2uRBr6c3B5AqA",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T14:27:03.932Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T14:27:04.770Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MTM1NDksImV4cCI6MTc3ODQxODM0OX0.nyn1UdXL7YYfibLuoZJA4aq2-JG8eC2uRBr6c3B5AqA",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T14:27:26.073Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T14:27:26.083Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MTg0NjksImV4cCI6MTc3ODQyMzI2OX0._pzYXRUP02uB_AinHr_WgCLVmxPByYf7NZ5HH-bOogs",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T14:43:57.548Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T14:44:02.090Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:03.636Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:04.029Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:04.057Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:54.445Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:54.452Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:03:54.462Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:07.762Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:07.774Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:07.805Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:16.745Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:16.753Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:04:16.785Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:02.623Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:02.629Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:03.065Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:13.872Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:13.877Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:13.888Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:55.885Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:55.891Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:09:55.901Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:10:08.983Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:10:08.990Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:10:09.010Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:20.128Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:20.134Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:20.143Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:40.991Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:40.996Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:11:41.008Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:12:52.718Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:12:52.747Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:12:52.800Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:13:08.236Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:13:08.244Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:13:08.258Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:14:57.042Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:14:57.054Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:14:57.086Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:15:29.165Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:15:29.171Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:15:29.182Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:02.301Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:02.313Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:02.340Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:37.032Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:37.038Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:16:37.049Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:17:11.178Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:17:11.187Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:17:11.206Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:18:50.282Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:18:50.295Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:18:50.319Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:03.247Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:03.252Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:03.262Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:43.285Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:43.296Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:19:43.318Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:20:42.201Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:20:42.210Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:20:42.227Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:09.786Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:09.848Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:09.866Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:34.531Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:34.546Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:21:34.573Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MTk0NTYsImV4cCI6MTc3ODQyNDI1Nn0.DMDBLIA87NMw3ybQmmljTof1oNBWETnPquafLcdUVFg",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T15:22:15.768Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T15:22:17.637Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:32:14.300Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:32:14.311Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:32:14.332Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjE3NDQsImV4cCI6MTc3ODQyNjU0NH0.xzCuyQ4OInsEIffAMtgMot9RR2UF1wwu3KqJmicl7zM",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T15:37:55.173Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T15:37:55.505Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjE3NDQsImV4cCI6MTc3ODQyNjU0NH0.xzCuyQ4OInsEIffAMtgMot9RR2UF1wwu3KqJmicl7zM",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T15:40:19.774Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T15:40:19.845Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:56:40.594Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:56:40.632Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:56:40.654Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjI4MjUsImV4cCI6MTc3ODQyNzYyNX0.P6GCpMODEW3ZN4OOTJqH1sYxkeJw1fmCBCfM-tdALnc",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T15:56:52.312Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T15:56:53.107Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:58:31.426Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:58:31.437Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T15:58:31.488Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T16:00:42.835Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T16:00:43.286Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-03T16:00:43.300Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjM4MjMsImV4cCI6MTc3ODQyODYyM30.mQ1ijlTxVIjDcGPM_aBdwG9zmxXqdz1_VktETI-aKi4",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:01:46.853Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:01:48.149Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjM4MjMsImV4cCI6MTc3ODQyODYyM30.mQ1ijlTxVIjDcGPM_aBdwG9zmxXqdz1_VktETI-aKi4",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:06:49.472Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:06:50.898Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjM4MjMsImV4cCI6MTc3ODQyODYyM30.mQ1ijlTxVIjDcGPM_aBdwG9zmxXqdz1_VktETI-aKi4",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:25:30.179Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:25:30.684Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjM4MjMsImV4cCI6MTc3ODQyODYyM30.mQ1ijlTxVIjDcGPM_aBdwG9zmxXqdz1_VktETI-aKi4",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:26:08.864Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:26:08.962Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MjM4MjMsImV4cCI6MTc3ODQyODYyM30.mQ1ijlTxVIjDcGPM_aBdwG9zmxXqdz1_VktETI-aKi4",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:28:22.356Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:28:22.598Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc4MzAxMDksImV4cCI6MTc3ODQzNDkwOX0.c-MtVJ3Lq3VMx8E87iOvj11E6kqkhg7mu-fTgLL8gNI",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-03T17:59:48.980Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-03T17:59:49.269Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T12:37:40.296Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T12:37:40.301Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T12:37:40.310Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwYTEyM2RjNC00NzFlLTRjZGEtYmMxMS1kOTQxOWJjYjgwNzciLCJpYXQiOjE3Nzc4ODkzNjgsImV4cCI6MTc3ODQ5NDE2OH0.h4WAHPNQ2aUwE0VmqYt7TCRkdX9niZ3adeAN2zgwIVA",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-04T13:12:35.556Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-04T13:12:36.122Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:04:25.945Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:04:25.953Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:04:25.964Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst({\n' +
+    '          where: {\n' +
+    '            refreshToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMDM0OTE2My0xOTAxLTRmYjctOWIwMC1hNzU0NjViNDA3Y2QiLCJpYXQiOjE3Nzc5MDAzNzEsImV4cCI6MTc3ODUwNTE3MX0.LwR_nxxCw793UBdw9UOdBdYb-WyJFFBTgV7q08BBQ6A",\n' +
+    '            isRevoked: false,\n' +
+    '            expiresAt: {\n' +
+    '              gt: new Date("2026-05-04T18:04:51.757Z")\n' +
+    '            }\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: {\n' +
+    '              select: {\n' +
+    '                id: true,\n' +
+    '                email: true,\n' +
+    '                role: true,\n' +
+    '                status: true,\n' +
+    '                ~~~~~~\n' +
+    '        ?       firstName?: true,\n' +
+    '        ?       lastName?: true,\n' +
+    '        ?       phone?: true,\n' +
+    '        ?       address?: true,\n' +
+    '        ?       passwordHash?: true,\n' +
+    '        ?       createdAt?: true,\n' +
+    '        ?       doctor?: true,\n' +
+    '        ?       bookings?: true,\n' +
+    '        ?       userSessions?: true,\n' +
+    '        ?       ipRestrictions?: true,\n' +
+    '        ?       loginHistories?: true,\n' +
+    '        ?       passwordResetTokens?: true,\n' +
+    '        ?       auditLogs?: true,\n' +
+    '        ?       _count?: true\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Unknown field `status` for select statement on model `User`. Available options are marked with ?.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-04T18:04:52.110Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:19:53.575Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:19:53.585Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:19:53.607Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:21:46.725Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:21:46.737Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:21:46.756Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:22:37.175Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:22:37.184Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:22:37.205Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:29.097Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:29.109Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:29.135Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:43.046Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:43.054Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:23:43.074Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:24:19.902Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:24:19.908Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:24:19.917Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:25:47.653Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:25:47.664Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:25:47.686Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:30:09.337Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:30:09.347Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:30:09.373Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:39:49.198Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:39:49.222Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:39:49.302Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:09.682Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:09.692Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:09.713Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:56.620Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:56.626Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:41:56.636Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:42:38.036Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:42:38.047Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:42:38.067Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:43:13.462Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:43:13.468Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:43:13.480Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:02.202Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:02.216Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:02.242Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:17.072Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:17.077Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:17.087Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:37.071Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:37.076Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:46:37.084Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:14.308Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:14.321Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:14.344Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:27.251Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:27.259Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T18:47:27.270Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:02:39.380Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:02:39.389Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:02:39.409Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:14.418Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:14.426Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:14.447Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:26.873Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:26.887Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:03:26.906Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:04:12.674Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:04:12.684Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-04T19:04:12.704Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T15:44:21.321Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T15:44:21.335Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T15:44:21.348Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:01:40.021Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:01:40.031Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:01:40.066Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:36.313Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:36.324Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:36.340Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:47.582Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:47.591Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:03:47.616Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:04:39.780Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:04:39.793Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:04:39.816Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:03.516Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:03.521Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:03.528Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:32.133Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:32.147Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:05:32.166Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:11:51.914Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:11:51.929Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:11:51.959Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:13:35.843Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:13:35.859Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:13:35.885Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:14:35.695Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:14:36.834Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-05T16:14:36.866Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "COMPLETED"\n' +
+    '                  ~~~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:10.856Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "COMPLETED"\n' +
+    '                    ~~~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:10.872Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "COMPLETED"\n' +
+    '                  ~~~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:11.894Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "COMPLETED"\n' +
+    '                    ~~~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:11.903Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "COMPLETED"\n' +
+    '                  ~~~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:13.928Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "COMPLETED"\n' +
+    '                    ~~~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:13.942Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "NO_SHOW"\n' +
+    '                  ~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:17.275Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "NO_SHOW"\n' +
+    '                    ~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:17.285Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "NO_SHOW"\n' +
+    '                  ~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:18.316Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "NO_SHOW"\n' +
+    '                    ~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:18.329Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.count()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:135:20\n' +
+    '\n' +
+    "  132     createdAt: 'desc',\n" +
+    '  133   },\n' +
+    '  134 }),\n' +
+    '→ 135 prisma.booking.count({\n' +
+    '        select: {\n' +
+    '          _count: {\n' +
+    '            select: {\n' +
+    '              _all: true\n' +
+    '            }\n' +
+    '          }\n' +
+    '        },\n' +
+    '        where: {\n' +
+    '          slot: {\n' +
+    '            doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '          },\n' +
+    '          status: "NO_SHOW"\n' +
+    '                  ~~~~~~~~~\n' +
+    '        }\n' +
+    '      })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.count',
+  timestamp: 2026-05-05T16:20:20.373Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.booking.findMany()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:123:20\n' +
+    '\n' +
+    '  120 }\n' +
+    '  121 \n' +
+    '  122 const [data, total] = await Promise.all([\n' +
+    '→ 123   prisma.booking.findMany({\n' +
+    '          where: {\n' +
+    '            slot: {\n' +
+    '              doctorId: "58c92471-ae69-44c6-9de5-7f2c7202a609"\n' +
+    '            },\n' +
+    '            status: "NO_SHOW"\n' +
+    '                    ~~~~~~~~~\n' +
+    '          },\n' +
+    '          include: {\n' +
+    '            user: true,\n' +
+    '            slot: true\n' +
+    '          },\n' +
+    '          skip: 0,\n' +
+    '          take: 20,\n' +
+    '          orderBy: {\n' +
+    '            createdAt: "desc"\n' +
+    '          }\n' +
+    '        })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.findMany',
+  timestamp: 2026-05-05T16:20:20.383Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:34:21.991Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:34:22.000Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:34:22.009Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:50:03.745Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:50:03.756Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:50:03.773Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:51:36.963Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:51:36.976Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:51:36.997Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:52:25.539Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:52:25.544Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-07T16:52:25.554Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-08T13:03:46.474Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-08T13:03:46.483Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-08T13:03:46.504Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9798ea3e-2552-4fde-9beb-c9782b655a5c"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-08T13:04:33.598Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9798ea3e-2552-4fde-9beb-c9782b655a5c"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-08T13:04:56.807Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "5121550e-6fa5-4956-9a53-8d004351ef90"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "NO_SHOW"\n' +
+    '                 ~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-08T13:04:59.834Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9798ea3e-2552-4fde-9beb-c9782b655a5c"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-08T13:05:41.046Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:41:37.395Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:41:37.422Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:41:37.470Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:55:01.755Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:55:01.769Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:55:01.798Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:59:54.228Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:59:54.241Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T10:59:54.285Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:06:28.660Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:06:28.677Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:06:28.722Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:08:38.776Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:08:38.793Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T11:08:38.833Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:24:01.216Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:24:01.231Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:24:01.249Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:35:04.485Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:35:04.519Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T12:35:04.562Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9798ea3e-2552-4fde-9beb-c9782b655a5c"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-10T13:03:16.836Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9798ea3e-2552-4fde-9beb-c9782b655a5c"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "NO_SHOW"\n' +
+    '                 ~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-10T13:03:26.682Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9842a4ea-1510-44f5-a819-51eba59938da"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-10T13:03:34.961Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.create()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:18:38\n' +
+    '\n' +
+    "  15 if (!slot) throw new Error('Slot not found')\n" +
+    "  16 if (slot.isBooked) throw new Error('Slot already booked')\n" +
+    '  17 \n' +
+    '→ 18 const booking = await tx.booking.create(\n' +
+    'Unique constraint failed on the fields: (`slotId`)',
+  target: 'booking.create',
+  timestamp: 2026-05-10T13:14:38.051Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.create()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:18:38\n' +
+    '\n' +
+    "  15 if (!slot) throw new Error('Slot not found')\n" +
+    "  16 if (slot.isBooked) throw new Error('Slot already booked')\n" +
+    '  17 \n' +
+    '→ 18 const booking = await tx.booking.create(\n' +
+    'Unique constraint failed on the fields: (`slotId`)',
+  target: 'booking.create',
+  timestamp: 2026-05-10T13:14:43.911Z,
+  level: 'error'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:25.277Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:25.300Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:25.318Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:36.191Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:36.199Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:36.212Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:48.749Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:48.757Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:25:48.768Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:22.998Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:23.009Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:23.032Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:47.779Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:47.789Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:47.992Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:56.865Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:56.875Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:26:57.540Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:05.711Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:05.716Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:06.039Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:35.352Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:35.363Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:29:35.376Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:07.589Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:07.609Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:07.664Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:17.731Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:17.737Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:17.747Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:35.365Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:35.375Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:30:35.393Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:47:29.545Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:47:29.578Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:47:29.598Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:03.573Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:03.583Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:03.609Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:21.459Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:21.470Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T13:48:21.495Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T14:25:54.368Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T14:25:54.428Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T14:25:54.464Z'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9842a4ea-1510-44f5-a819-51eba59938da"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-10T14:47:43.206Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `tx.booking.update()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\booking.services.ts:44:22\n' +
+    '\n' +
+    '  41 \n' +
+    "  42 if (!booking) throw new Error('Booking not found')\n" +
+    '  43 \n' +
+    '→ 44 await tx.booking.update({\n' +
+    '       where: {\n' +
+    '         id: "9842a4ea-1510-44f5-a819-51eba59938da"\n' +
+    '       },\n' +
+    '       data: {\n' +
+    '         status: "COMPLETED"\n' +
+    '                 ~~~~~~~~~~~\n' +
+    '       }\n' +
+    '     })\n' +
+    '\n' +
+    'Invalid value for argument `status`. Expected BookingStatus.',
+  target: 'booking.update',
+  timestamp: 2026-05-10T14:51:55.500Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.loginHistory.create()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:186:29\n' +
+    '\n' +
+    '  183   failureReason?: string\n' +
+    '  184 ) {\n' +
+    '  185   if (!userId) return\n' +
+    '→ 186   await prisma.loginHistory.create(\n' +
+    'The column `login_history.userAgent` does not exist in the current database.',
+  target: 'loginHistory.create',
+  timestamp: 2026-05-10T15:05:15.981Z,
+  level: 'error'
+}
+{
+  service: 'api',
+  message: 'Prisma error \n' +
+    'Invalid `prisma.userSession.findFirst()` invocation in\n' +
+    'C:\\Users\\HP\\Documents\\NextJS Projects\\med-dash\\backend\\src\\services\\auth.service.ts:171:29\n' +
+    '\n' +
+    '  168 }\n' +
+    '  169 \n' +
+    '  170 export async function getValidSession(refreshToken: string) {\n' +
+    '→ 171   return prisma.userSession.findFirst(\n' +
+    'The column `user_sessions.userAgent` does not exist in the current database.',
+  target: 'userSession.findFirst',
+  timestamp: 2026-05-10T15:05:16.831Z,
+  level: 'error'
+}
+{
+  message: 'Shutting down...',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T15:06:55.917Z'
+}
+{
+  message: 'Shutdown complete',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T15:06:55.945Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T15:07:21.445Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T15:07:21.463Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T15:07:21.484Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T18:23:24.799Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T18:23:24.853Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-10T18:23:24.892Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:10:08.998Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:10:09.014Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:10:09.035Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:23:31.121Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:23:31.133Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:23:31.150Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:36:45.646Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:36:45.758Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:36:45.783Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:37:38.659Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:37:38.670Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:37:38.691Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:38:06.614Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:38:06.622Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:38:06.639Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:39:14.280Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:39:14.297Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:39:14.406Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:40:09.231Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:40:09.240Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:40:09.258Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:42:12.457Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:42:12.473Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:42:12.508Z'
+}
+{
+  message: 'API running on http://0.0.0.0:4000',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:46:46.027Z'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:46:46.045Z'
+}
+{
+  message: 'Redis connected',
+  level: 'info',
+  service: 'api',
+  timestamp: '2026-05-11T13:46:46.105Z'
+}
